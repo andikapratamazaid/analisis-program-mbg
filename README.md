@@ -9,6 +9,12 @@ Setiap baris dataset memiliki kolom **sumber** dan **URL**. Tidak ada data simul
 Program Makan Bergizi Gratis diluncurkan 6 Januari 2025 dan dijalankan BGN. Project ini
 menjawab empat pertanyaan yang paling sering diperdebatkan publik:
 
+## Visual ringkas (1080 × 1920, siap untuk Story)
+
+![Infografis news data MBG](output/infografis_news_mbg_1080x1920.png)
+
+![Awan kata sentimen MBG di Threads](output/infografis_tagcloud_mbg_1080x1920.png)
+
 1. **Keberhasilan jangkauan** — seberapa besar program tumbuh?
 2. **Keracunan** — berapa korban sebenarnya, dan kenapa tiap lembaga angkanya berbeda?
 3. **SPPG yang ditutup** — berapa dapur yang ditindak BGN?
